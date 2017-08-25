@@ -17,7 +17,7 @@ Arduino UNO
 # Módulo Sensor de Som LM393
 | MÓDULO | ARDUINO |
 | ------ | ------ |
-| DO | A7|
+| DO | 7|
 | '+'| 5V|
 | G  | GND|
 | AO | A4|
