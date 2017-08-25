@@ -14,7 +14,7 @@ Arduino UNO
 
 # Módulo Sensor de Som LM393
 - DO = 7
-- +  = 5V
+- '+'  = 5V
 - G  = GND
 - AO = A4
 
